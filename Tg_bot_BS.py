@@ -7,7 +7,7 @@ from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.storage.memory import MemoryStorage
 import openpyxl
 
-BOT_TOKEN = "8022567791:AAG5U3YEnP1QbOpF1_C8K76BCdBa-ruJEug"
+BOT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
